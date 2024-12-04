@@ -1,2 +1,0 @@
-# CSE102_GTU_Assignments
-CSE102_GTU_Assignments
